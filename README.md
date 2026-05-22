@@ -1,5 +1,7 @@
 # Bioinformatics Portfolio and CV Layout
 
+[![Deploy to GitHub Pages](https://github.com/bhagesh-h/portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/bhagesh-h/portfolio/actions/workflows/deploy.yml)
+
 A highly polished, interactive portfolio and responsive CV system built with React, TypeScript, and Tailwind CSS. The app features customizable visual sections, live filtering, a glowing background aesthetic, and a print-optimized, clean CSS layout for high-fidelity resume generation and exporting.
 
 ## Dual Yaml Config Structure
